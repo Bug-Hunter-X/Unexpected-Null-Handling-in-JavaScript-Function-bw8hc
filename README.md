@@ -1,0 +1,1 @@
+This repository contains examples of common JavaScript errors and their solutions. This particular example highlights issues related to handling `null` values in functions. The `bug.js` file shows the original code with potential issues, while `bugSolution.js` demonstrates how to correctly handle `null` inputs to prevent unexpected behavior and improve code reliability.
